@@ -1,0 +1,9 @@
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\bin\Debug\Aristotrainer.exe.config
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\obj\Debug\Aristotrainer.Main.resources
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\obj\Debug\Aristotrainer.Properties.Resources.resources
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\obj\Debug\Aristotrainer.csproj.GenerateResource.Cache
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\bin\Debug\Aristotrainer.exe
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\bin\Debug\Aristotrainer.pdb
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\obj\Debug\Aristotrainer.exe
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\obj\Debug\Aristotrainer.pdb
+C:\Users\Itzik\Desktop\Projects\Aristotrainer\Aristotrainer\obj\Debug\Aristotrainer.csprojResolveAssemblyReference.cache
